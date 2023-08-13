@@ -1,3 +1,7 @@
+# Ignore folders and files
+AskHoshi/discord/.env
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
